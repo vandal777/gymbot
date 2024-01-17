@@ -17,6 +17,3 @@ This ensures that at least a second person has reviewed and approved the changes
 To install and run this application, you need to follow the instructions in the React Native environment setup guide using `react-native-cli` for Windows with Android. This guide will walk you through the setup of the necessary development environment.
 
 Please follow the guide carefully to avoid any setup issues. After setting up the environment, you can clone this repository and run the following command in the project directory to install the dependencies:
-
-```bash
-npm install
