@@ -31,7 +31,7 @@ function StartScreen(): React.JSX.Element {
           onChangeText={setRestTime}
         />
         <TouchableOpacity style={styles.button} onPress={handlePressStart}>
-          <Text style={styles.buttonText}>Press to Start</Text>
+          <Text style={styles.buttonText}>Start</Text>
         </TouchableOpacity>
       </View>
     </SafeAreaView>
